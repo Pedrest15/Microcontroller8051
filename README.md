@@ -5,6 +5,11 @@
 ### Objetivo
 O objetivo deste projeto é criar um programa em Assembly para o microcontrolador 8051 que controla um display de 7 segmentos. O programa permite ao usuário escolher entre dois intervalos de tempo para atualização do display (0,25 segundos e 1 segundo) usando botões de entrada.
 
+### Simulador
+Para realizar esse projeto, foi utilizado o simulador gratuito EdSim51. Para mais informações sobre ele, acesse seu [site](http://edsim51.com/).
+
+![Front do Simluador EdSim51](https://github.com/Pedrest15/Microcontroller8051/blob/main/Edsim51.png)
+
 ### Código-Fonte
 O código-fonte está organizado da seguinte forma:
 
