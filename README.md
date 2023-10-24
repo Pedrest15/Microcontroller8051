@@ -17,7 +17,8 @@ Para realizar esse projeto, foi utilizado o simulador gratuito EdSim51. Para mai
 
 ![Front do Simluador EdSim51](https://github.com/Pedrest15/Microcontroller8051/blob/main/Edsim51.png)
 
-Conforme as necessidades do projeto, o diagrama correspondente ao processador é:
+Conforme as necessidades do projeto, o diagrama correspondente ao processador com as devidas ligações corretas para a execução é:
+
 ![Diagrama do Processador](https://github.com/Pedrest15/Microcontroller8051/blob/main/DiagramaEdSim51.png)
 
 ### Código-Fonte
