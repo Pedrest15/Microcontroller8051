@@ -2,6 +2,8 @@
 
 ## Relatório do Projeto - Controle de Display de 7 Segmentos
 
+  <div align="justify" >
+
 ### Grupo
 Alexandre Lopes Ferreira Dias dos Santos - 11801199 </br>
 Beatriz Aimee Teixeira Furtado Braga - 12547934 </br>
