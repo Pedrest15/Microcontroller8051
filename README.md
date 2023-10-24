@@ -2,6 +2,11 @@
 
 ## Relatório do Projeto - Controle de Display de 7 Segmentos
 
+### Grupo
+Alexandre Lopes Ferreira Dias dos Santos - 11801199 </br>
+Beatriz Aimee Teixeira Furtado Braga - 12547934 </br>
+Pedro Lucas Castro de Andrade - 11212289
+
 ### Objetivo
 O objetivo deste projeto é criar um programa em Assembly para o microcontrolador 8051 que controla um display de 7 segmentos. O programa permite ao usuário escolher entre dois intervalos de tempo para atualização do display (0,25 segundos e 1 segundo) usando botões de entrada.
 
@@ -9,6 +14,9 @@ O objetivo deste projeto é criar um programa em Assembly para o microcontrolado
 Para realizar esse projeto, foi utilizado o simulador gratuito EdSim51. Para mais informações sobre ele, acesse seu [site](http://edsim51.com/).
 
 ![Front do Simluador EdSim51](https://github.com/Pedrest15/Microcontroller8051/blob/main/Edsim51.png)
+
+Conforme as necessidades do projeto, o diagrama correspondente ao processador é:
+![Diagrama do Processador](https://github.com/Pedrest15/Microcontroller8051/blob/main/DiagramaEdSim51.png)
 
 ### Código-Fonte
 O código-fonte está organizado da seguinte forma:
