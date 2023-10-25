@@ -119,6 +119,7 @@ O programa começa na inicialização (START), onde o ponteiro DPTR é configura
 Quando um botão é pressionado, o programa decide qual sub-rotina de delay chamar (DELAY_025 ou DELAY_1) com base no botão pressionado. Após um atraso, a sub-rotina `UPDATE_DISPLAY` é chamada para atualizar o display e o loop continua. O programa permite que o usuário escolha entre dois intervalos de tempo para a atualização do display.
 
 Contador com delay 0.25 (frequência 5900)
+
 ![Gif sw0](https://github.com/Pedrest15/Microcontroller8051/assets/62675416/87bd2f3f-c4af-4b81-b782-f8ddcb97db7a)
 
 ### Conclusão
